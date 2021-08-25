@@ -13,8 +13,4 @@
     </nav>
 </div>
 
-<div class="container">
-    <h1><?php echo the_title(); ?>.</h1>
-</div>
-
 <?php get_template_part('template-parts/content'); ?>
